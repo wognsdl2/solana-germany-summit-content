@@ -1,0 +1,11 @@
+{
+  "name": "solana-germany-summit-content-pack",
+  "version": "1.0.0",
+  "description": "Premium content package for the Superteam Germany Solana Summit bounty.",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/content.test.mjs",
+    "serve": "python -m http.server 8094"
+  },
+  "license": "MIT"
+}
